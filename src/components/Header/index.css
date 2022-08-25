@@ -1,0 +1,19 @@
+.header-container{
+    /* height: 200px; */
+
+    display:flex;
+    width: fit-content;
+    padding: 3px;
+}
+
+.header-image{
+    height: 150px;
+    border-radius: 50%;
+}
+
+.title{
+    margin-top: 40px;
+      padding: 6px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color:brown;
+}

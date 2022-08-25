@@ -1,0 +1,8 @@
+.content{
+   padding-top: 20px;
+   display: grid;
+   grid-template-columns:18% 18% 18% 18%; 
+   margin-left: 15%;
+   column-gap: 50px;
+   row-gap: 20px;
+}

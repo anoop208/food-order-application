@@ -1,0 +1,41 @@
+.header{text-align: center;
+color:#1B1A17;
+font-family:'Times New Roman', Times, serif;
+margin-top: 50px;
+font-size:40px;
+text-shadow:1px 1px 5px #394867;
+}
+
+.lastcontent{
+    font-weight: bold;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 42%;
+    color:black;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.uid{text-align:start;}
+
+.count{text-align: start;}
+
+.blank{
+    color: white;
+    text-align:center;
+    font-size:30px;
+    background-color:#006778;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0 4px 8px 2px grey;
+}
+
+.orderlist{
+    background-color:#F9F7F7;
+    padding: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 0 4px 8px 2px grey;
+}

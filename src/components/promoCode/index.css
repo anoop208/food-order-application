@@ -1,0 +1,35 @@
+.inputForm{
+    text-align:center;
+}
+
+.name{padding: 10px;
+width:300px;
+border-radius: 10px;
+font-size: large;
+border:none;
+background-color: #DFDFDE;
+}
+/* 
+.codeinput{margin} */
+
+.Submit{padding:10px;
+border:none;
+background-color:#3A3845;
+font-size: large;
+border-radius:10px;
+color: white;
+font-weight: bold;
+margin-top: 6px;
+cursor: pointer;
+}
+
+.Submit:hover{box-shadow:0 6px 8px 0 #DFDFDE,0 6px 8px 0 #DFDFDE;}
+
+.onsubmit{color:#3A3845;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.promo{margin-left: 100px;
+color:#3A3845;
+font-size: 25px;}

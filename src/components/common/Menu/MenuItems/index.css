@@ -1,0 +1,35 @@
+.menu-items{
+    background-color:#F7F5F2;
+  margin: 8px 8px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 #DFDFDE,0 4px 8px 0 #DFDFDE;
+}
+
+.item-img{
+    height:200px;
+    width:100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.menu-content{
+    margin-left: 6px;
+   
+}
+
+.menu-footer{
+background-color:brown;
+border-radius: 20px;
+text-align:center;
+width: 100px;
+margin:4px 4px;
+}
+
+p{font-size: large;
+font-weight: bolder;
+}
+
+.menu-items:hover{
+    box-shadow: 0px 6px 8px 2px gray;
+}
+

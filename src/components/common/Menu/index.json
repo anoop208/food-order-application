@@ -1,0 +1,122 @@
+ [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "price": 200,
+            "img": "https://media.istockphoto.com/photos/concept-vertical-promotional-flyer-and-poster-for-restaurant-pizzeria-picture-id1064244044?k=20&m=1064244044&s=612x612&w=0&h=AfWYTS6sqoYmxu5eHXgMAKqD-0u_QtFmebWrk20Hq7g="
+        },
+        {
+            "id": 2,
+            "name": "Burger",
+            "price": 100,
+            "img": "https://media.istockphoto.com/photos/hamburger-with-flying-ingredients-picture-id1203988866?k=20&m=1203988866&s=612x612&w=0&h=rrzpq_dyQbiWMOBjjJAB-rABdDqf8Wts2hb14Vusb5A="
+        },
+        {
+            "id": 3,
+            "name": "Rolls",
+            "price": 100,
+            "img": "https://media.istockphoto.com/photos/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-picture-id1024561098?k=20&m=1024561098&s=612x612&w=0&h=rEOCTGSj-BEbCaMGd5XzSf3zU6QIA2MX1QyEi7j2Vr4="
+        },
+        {
+            "id": 4,
+            "name": "Chicken",
+            "price": 200,
+            "img": "https://media.istockphoto.com/photos/murgh-makhani-or-butter-chicken-in-black-bowl-on-dark-slate-table-top-picture-id1295019814?k=20&m=1295019814&s=612x612&w=0&h=etJHyElrHePlo8-OBU9Jw9UzoicVmikEsksNw9Qh8Ts="
+        },
+        {
+            "id": 5,
+            "name": "Biryani",
+            "price": 100,
+            "img": "https://media.istockphoto.com/photos/egg-biryani-or-anda-biryani-using-basmati-rice-and-spices-picture-id534334870?k=20&m=534334870&s=612x612&w=0&h=8JFH_eZe-N45gm4oeFGrpUoQAV513aEp7cqludt7udQ="
+        },
+        {
+            "id": 6,
+            "name": "Paratha",
+            "price": 60,
+            "img": "https://media.istockphoto.com/photos/paratha-and-curd-picture-id908647812?k=20&m=908647812&s=612x612&w=0&h=azRD7cOSR9Wl4S0iYW0mGdCst010JF4lsL57AlHCqoo="
+        },
+        {
+            "id": 7,
+            "name": "Fries",
+            "price": 100,
+            "img": "https://media.istockphoto.com/photos/fries-picture-id500177745?k=20&m=500177745&s=612x612&w=0&h=Y_CyaRt7CmExUUEpFSwfFhCszsdwLOVtdRt_vzYu2hI="
+        },
+        {
+            "id": 8,
+            "name": "Dal",
+            "price": 80,
+            "img": "https://media.istockphoto.com/photos/red-lentil-indian-soup-with-flat-bread-masoor-dal-picture-id495455834?k=20&m=495455834&s=612x612&w=0&h=8omRKLbO-VkguhK2KueeVWnmLLptDRG58T94117F95E="
+        },
+        {
+            "id": 9,
+            "name": "Wraps",
+            "price": 100,
+            "img": "https://media.istockphoto.com/photos/lettuce-wraps-with-chicken-carrot-peanuts-and-scallion-stuffed-picture-id936899360?k=20&m=936899360&s=612x612&w=0&h=Q0nN8kS-4BTr8vKefOT_WZst5JhF8cX_YqsScKdBryY="
+        },
+        {
+            "id": 10,
+            "name": "Momos",
+            "price": 60,
+            "img": "https://media.istockphoto.com/photos/japanese-fried-dumplings-gyoza-with-pork-meat-and-vegetables-served-picture-id1215913965?k=20&m=1215913965&s=612x612&w=0&h=-H_xJSnLdmmmgjHXslgMpTucrl7Xx0TrEnxpEZoN4us="
+        },
+        {
+            "id": 11,
+            "name": "Shake",
+            "price": 100,
+            "img": "https://media.istockphoto.com/photos/chocolate-milk-and-whipped-cream-picture-id926990564?k=20&m=926990564&s=612x612&w=0&h=maw0rkzBpzhLIBasS3FPWJG2kENlOTcyYSVV5zHdAME="
+        },
+        {
+            "id": 12,
+            "name": "Noodles",
+            "price": 120,
+            "img": "https://media.istockphoto.com/photos/instant-noodles-picture-id587775952?k=20&m=587775952&s=612x612&w=0&h=SMSntw6Tr0tW-1z8n39fXI5bQ9i-mxdZAdIEjRMjIY8="
+        },
+        {
+            "id": 13,
+            "name": "Tea",
+            "price": 20,
+            "img": "https://media.istockphoto.com/photos/tea-cup-on-saucer-with-tea-being-poured-picture-id466073662?k=20&m=466073662&s=612x612&w=0&h=gcgypB3MWXH-BuUewwl18_H797jgA20ayZsKq8sozuU="
+        },
+        {
+            "id": 14,
+            "name": "Chaat",
+            "price": 50,
+            "img": "https://media.istockphoto.com/photos/pani-puri-or-golgappa-is-a-popular-indian-chat-menu-selective-focus-picture-id979797052?k=20&m=979797052&s=612x612&w=0&h=hRFefUirJXyMUdOX9VPsviN89_IjT-mBNuMv7N-q2ls="
+        },
+        {
+            "id": 15,
+            "name": "Thali",
+            "price": 60,
+            "img": "https://media.istockphoto.com/photos/motton-thali-or-goshtlamb-platter-is-indianasian-non-veg-lunchdinner-picture-id982394948?k=20&m=982394948&s=612x612&w=0&h=6dIfasPBJ5uctkwjcw0MsLqLXQP5ABvhDAzwll3TAdE="
+        },
+        {
+            "id": 16,
+            "name": "Paneer",
+            "price": 250,
+            "img": "https://media.istockphoto.com/photos/indian-cuisine-paneer-tikka-kabab-asian-salad-top-view-picture-id881481784?k=20&m=881481784&s=612x612&w=0&h=kyKfsJMVJC8pcRXSHioc52xxFQ_f-H0TwUvUbHFhfRk="
+        },
+        {
+            "id": 17,
+            "name": "Samosa",
+            "price": 20,
+            "img": "https://media.istockphoto.com/photos/samosa-picture-id1211909320?k=20&m=1211909320&s=612x612&w=0&h=XvZUXjXrq6TJzClr1pfN287sHyWWaHTFOCnYo5avfis="
+        },
+        {
+            "id": 18,
+            "name": "Rajma",
+            "price": 50,
+            "img": "https://media.istockphoto.com/photos/kidney-bean-curry-or-rajma-or-rajmah-chawal-and-roti-typical-north-picture-id669635320?k=20&m=669635320&s=612x612&w=0&h=bf3AZPXWlxquOIJx-dHfnV5HGq_bjhncBROZZa2zQwE="
+        },
+        {
+            "id": 19,
+            "name": "Lassi",
+            "price": 40,
+            "img": "https://media.istockphoto.com/photos/glass-of-mango-lassi-view-from-above-north-indian-food-picture-id889603060?k=20&m=889603060&s=612x612&w=0&h=UF0BwipWmgq82BYBvO0HBxGYm4SUJWSMhlb6z9WnMyg="
+        },
+        {
+            "id": 20,
+            "name": "Jalebi",
+            "price": 200,
+            "img": "https://media.istockphoto.com/photos/paneer-jalebi-picture-id1345166658?k=20&m=1345166658&s=612x612&w=0&h=Ta87Gb0MbziigBIbdFC00jLiAHnQEyWe_7IOl67dbfo="
+        }
+    ]

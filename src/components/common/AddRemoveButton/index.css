@@ -1,0 +1,16 @@
+.addRemovebtn{
+    padding: 5px;
+    font-size: large;
+    cursor: pointer;
+}
+.fa{
+    padding:6px;
+    color:white;
+}
+.addBtn{color:white;
+font-weight: bold;
+}
+
+.quantity{color: white;
+font-weight: bold;
+font-size: larger;}
